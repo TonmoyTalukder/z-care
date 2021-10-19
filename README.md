@@ -12,8 +12,9 @@ _Intensive Patients Care To Serve Humanity..._
 
 <a href="https://z-care-tonmoy.web.app/"> Browse The Project </a>
 
-**Project Description :**
-<br/> This project developed using React Js, Bootstrap CSS and Firebase Authentication system.
+## Project Description :
+
+This project developed using React Js, Bootstrap CSS and Firebase Authentication system.
 
 ### Features :
 
