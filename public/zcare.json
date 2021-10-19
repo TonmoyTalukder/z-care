@@ -1,0 +1,65 @@
+[
+  {
+    "id": "615a0077b8f18288b0afa867",
+    "img": "https://raw.githubusercontent.com/AuthoredByTonmoy/zcare/main/service-1.jpg",
+    "title": "Virology",
+    "description": "Biochemistry, Immunology, Serology, Microbiology, Clinical Pathology, Histopathology, Molecular Laboratory"
+  },
+  {
+    "id": "615a0077b8f18288b0afa866",
+    "img": "https://raw.githubusercontent.com/AuthoredByTonmoy/zcare/main/service-2.jpg",
+    "title": "Hematology",
+    
+    "description": "Haematology –sysmex XN2000 :(Full Automated Reticulocyte Counter & 5 parts Differential Analyzer)"
+  },
+  {
+    "id": "615a0077b8f18288b0afa868",
+    "img": "https://raw.githubusercontent.com/AuthoredByTonmoy/zcare/main/service-3.jpg",
+    "title": "High Quality Level Lab Intruments",
+   
+    "description": "Cobas 6000 (Full Automated Multibatch Biochemistry & Immunology Analyzer)"
+  },
+  {
+    "id": "615a0077b8f18288b0afa869",
+    "img": "https://raw.githubusercontent.com/AuthoredByTonmoy/zcare/main/service-4.jpg",
+    "title": "BECKMAN Coulter Au 680",
+    "charge": 118,
+    "rating":4.5,
+    "description": "BECKMAN Coulter Au 680 (Random Access Multibatch Chemistry Analyzer)"
+  },
+  {
+    "id": "615a0077b8f18288b0afa876",
+    "img": "https://raw.githubusercontent.com/AuthoredByTonmoy/zcare/main/service-5.jpg",
+    "title": "Abbott-Architect i2000SR",
+   
+    "description": "Abbott-Architect i2000SR (Full Automated Random Access Immunology Analyzer)"
+  },
+  {
+    "id": "615a0077b8f18288b0afa886",
+    "img": "https://raw.githubusercontent.com/AuthoredByTonmoy/zcare/main/service-6.jpg",
+    "title": "Molecular (PCR) Lab",
+    
+    "description": "Molecular (PCR) Lab. (HBV-DNA)(HPV-DNA)(HCV-RNA)HCV-RNA Genotype), HLA-B27."
+  },
+  {
+    "id": "615a0077b8f18288b0afa896",
+    "img": "https://raw.githubusercontent.com/AuthoredByTonmoy/zcare/main/service-7.jpg",
+    "title": "Microbiology Lab",
+    
+    "description": "Our Microbiology Lab service is international level qualified."
+  },
+  {
+    "id": "615a0077b8f18288b0afa856",
+    "img": "https://raw.githubusercontent.com/AuthoredByTonmoy/zcare/main/service-8.jpg",
+    "title": "Clinical Pathology Lab",
+    
+    "description": "Our Clinical Pathology Lab service is international level qualified."
+  },
+  {
+    "id": "615a0077b8f18288b0afa846",
+    "img": "https://raw.githubusercontent.com/AuthoredByTonmoy/zcare/main/service-9.jpg",
+    "title": "Histopathology",
+    
+    "description": "Our Histopathology lab service is international level qualified."
+  }
+]

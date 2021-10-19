@@ -1,0 +1,17 @@
+.header{
+    background-color:darkcyan;
+    padding: 10px;
+}
+.header a{
+    text-decoration:none;
+    color:white;
+    font-weight: 700;
+    
+}
+
+.icon{
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    padding: 5px;
+}
