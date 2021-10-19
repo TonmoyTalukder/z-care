@@ -15,16 +15,16 @@ const Header = () => {
         <>
         <Navbar bg="dark" variant="dark" sticky="top" collapseOnSelect expand="lg" >
                 <Container>
-                    <Navbar.Brand href="/">
+                    <Nav.Link as={HashLink} className="d-inline-flex" to="/">
                         <img
-          alt=""
-          src={icon}
-          width="30"
-          height="30"
-          className="d-inline-block align-top"
-        />{' '}
-     Z-CARE
-      </Navbar.Brand>
+                            alt=""
+                            src={icon}
+                            width="30"
+                            height="30"
+                            className="d-inline-block align-top"
+                        />
+                        <h2 className="text-light">&#160;&#160;Z-CARE</h2> 
+                        </Nav.Link>
                     <Navbar.Toggle/>
                     <Navbar.Collapse className="justify-content-end ">
                         <Nav.Link as={HashLink} className="text-light" to="/home#home">Home</Nav.Link>
