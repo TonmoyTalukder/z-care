@@ -1,19 +1,19 @@
 # Z Care
 
 _Intensive Patients Care To Serve Humanity..._
-This is a health care named Z care to maintain Z+ category type international health service in the city.
+<br/> This is a health care center website named Z Care, maintaining Z+ category type international health service in the city is the aim of which.
 
 **Author : Tonmoy Talukder**
 <br/> CS Undergrad, AUST, Dhaka-1208
 
-## Website Live Link:
+## Website Live Link :
 
 <a href="https://z-care-tonmoy.web.app/"> Browse The Project </a>
 
-**Project Description:**
+**Project Description :**
 <br/> This project developed using React Js, Bootstrap CSS and Firebase Authentication system.
 
-### Features:
+### Features :
 
 > - The project about a health care center
 > - Patients can get details of our services from here
