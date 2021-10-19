@@ -33,6 +33,7 @@ const Header = () => {
                         <Nav.Link as={HashLink} className="text-light" to="/home#branch">Branches</Nav.Link>
                         <Nav.Link as={HashLink} className="text-light" to="/doctors">Our Doctors</Nav.Link>
                         <Nav.Link as={HashLink} className="text-light" to="/about">About Us</Nav.Link>
+                        <Nav.Link as={HashLink} className="text-light" to="/reachus">Reach Us</Nav.Link>
                         {user?.email ?
                             <Button onClick={logOut} className="btn btn-danger m-3" variant="light">Logout</Button> :
                             <Nav.Link as={Link} className="text-light" to="/login">Login</Nav.Link>}

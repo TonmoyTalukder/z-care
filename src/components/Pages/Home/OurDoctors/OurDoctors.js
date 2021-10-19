@@ -3,7 +3,7 @@ import React from 'react';
 const OurDoctors = () => {
     return (
         <div className=" row mt-5 mb-5">
-            <h2 className="text-primary mb-5">Our Best Doctors</h2>
+            <h2 className="text-secondary mb-5">Our Best Doctors</h2>
            <div className="col-12 mt-3 border">
                <h4>Prof. Dr. Pran Gopal Datta</h4>
                <p>MBBS, MCPS, ACORL, PhD, MSc (Audiology), FCPS (ENT), FRCS (Glasgow)</p>
