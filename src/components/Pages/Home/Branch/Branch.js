@@ -10,17 +10,17 @@ const Branch = () => {
                     <div className="col-lg-4 col-12 align-self-center ">
                         <h3>Dhanmandi</h3>
                         <p>Dhaka, Bangladesh</p>
-                        <p><i>Contact: +8801862555331</i></p>
+                        <p><i>Contact: +8801880788228</i></p>
                     </div>
                     <div className="col-lg-4 col-12 align-self-center">
                         <h3>Basundhara</h3>
                         <p>Dhaka, Bangladesh</p>
-                        <p><i>Contact: +8801862555331</i></p>
+                        <p><i>Contact: +8801880788228</i></p>
                     </div>
                     <div className="col-lg-4 col-12 align-self-center">
                         <h3>CU Campus</h3>
                         <p>Chittagong, Bangladesh</p>
-                        <p><i>Contact: +8801862555331</i></p>
+                        <p><i>Contact: +8801880788228</i></p>
                     </div>
                 </div>
             </div>
