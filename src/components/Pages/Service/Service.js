@@ -7,7 +7,7 @@ const Service = ({manu}) => {
     return (
         <div className="service">
          <div className="card h-100">
-      <img src={img} className="card-img-top img-fluid h-80" alt="..."/>
+      <img src={img} className="card-img-top img-fluid h-80 img-style" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">{title}</h5>
         <p className="card-text">{description}</p>

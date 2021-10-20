@@ -1,0 +1,4 @@
+.z-care:hover {
+  filter: grayscale(1);
+  color: gray;
+}

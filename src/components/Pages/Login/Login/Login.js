@@ -17,10 +17,10 @@ const Login = () => {
            <h2 className="mb-5 text-primary">Please Login</h2>
            <form action="" onSubmit={handleRegistration}>
 
-               <input type="email" onBlur={handleEmailChange} name="email" id=""  placeholder="example@email.com" required/>
+               <input type="email" onBlur={handleEmailChange} name="email" id=""  placeholder="Your Email" required/>
                <br />
                <br />
-               <input type="password" onBlur={handlePasswordChange} name="password" id=""  placeholder="please Input Your Password" required/>
+               <input type="password" onBlur={handlePasswordChange} name="password" id=""  placeholder="Your Password" required/>
                <br />
                <p>{error}</p>
                <br />

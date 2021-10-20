@@ -1,8 +1,8 @@
 import React from 'react';
 import { Button, Container, Nav, Navbar } from 'react-bootstrap';
 import { HashLink } from 'react-router-hash-link';
-import "./Header.css"
-import icon from "../../../../images/logo.png"
+import './Header.css';
+import icon from "../../../../images/logo.png";
 import { Link } from 'react-router-dom';
 // import Button from '@restart/ui/esm/Button';
 import useAuth from '../../../../hooks/useAuth';
@@ -31,8 +31,8 @@ const Header = () => {
                         <Nav.Link as={HashLink} className="text-light" to="/home#services">Services</Nav.Link>
                         <Nav.Link as={HashLink} className="text-light" to="/home#review">Reviews</Nav.Link>
                         <Nav.Link as={HashLink} className="text-light" to="/home#branch">Branches</Nav.Link>
-                        <Nav.Link as={HashLink} className="text-light" to="/doctors">Our Doctors</Nav.Link>
                         <Nav.Link as={HashLink} className="text-light" to="/about">About Us</Nav.Link>
+                        <Nav.Link as={HashLink} className="text-light" to="/doctors">Our Doctors</Nav.Link>
                         <Nav.Link as={HashLink} className="text-light" to="/reachus">Reach Us</Nav.Link>
                         {user?.email ?
                             <Button onClick={logOut} className="btn btn-danger m-3" variant="light">Logout</Button> :
